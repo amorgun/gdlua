@@ -1,0 +1,7 @@
+[submodule "luajit"]
+	path = luajit
+	url = https://luajit.org/git/luajit.gits
+[submodule "godot-cpp"]
+	path = godot-cpp
+	url = git@github.com:godotengine/godot-cpp.git
+	branch = 4.5
